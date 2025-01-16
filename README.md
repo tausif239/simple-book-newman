@@ -1,4 +1,4 @@
-#  Simple Book
+#  Simple Book API Automation
 
 ##  Project Summary:
 This project has automate user API from postman using newman
